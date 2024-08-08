@@ -1,16 +1,14 @@
-## Hi there 👋
+asheley-1D/README.md
 
-<!--
-**asheley-1D/asheley-1D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BOAS VINDAS AO MEU PERFIL
 
-Here are some ideas to get you started:
+meu nome é Asheley Ferreira.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Estou estudando na Alura
+*Estou me desevolvendo na linguagem JavaScript
+*Utilizo esse espaço para organização e compartinhamentos dos meus projetos desevolvidos
+
+VOCÊ PODE ENTRAR EM CONTATO COMIGO
+
+00001124930553sp@al.educacao.sp.gov.br
+
